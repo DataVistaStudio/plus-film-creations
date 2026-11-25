@@ -15,6 +15,23 @@ The [official website](https://plusfilmcreations.org/) provides Arabic, English 
 
 This is a public reference repository. **Production source code has not been published here.** No private accounts, server configuration, participant records, film submissions, copyrighted third-party media or secret credentials belong in this repository. Any future source import requires the project's documented rights and security review.
 
+## Official channels and repository guidance
+
+| Resource | Official link |
+|---|---|
+| Plus Film Creations | [plusfilmcreations.org](https://plusfilmcreations.org/) |
+| SLD Film Festival — Arabic | [Festival page](https://plusfilmcreations.org/?page=festival&lang=ar) |
+| SLD Film Festival — English | [Festival page](https://plusfilmcreations.org/?page=festival&lang=en) |
+| SLD Film Festival — French | [Festival page](https://plusfilmcreations.org/?page=festival&lang=fr) |
+| Press and original announcements | [Press room](https://plusfilmcreations.org/?page=press&lang=en) |
+| SLD Instagram | [@sld_filmfestival](https://www.instagram.com/sld_filmfestival/) |
+| SLD Facebook | [Official Facebook page](https://www.facebook.com/sldfilmfestival) |
+| Project enquiries | [info@plusfilmcreations.org](mailto:info@plusfilmcreations.org) |
+
+**FilmFreeway:** The SLD festival's official profile URL will be linked only after organizer verification. A launch ceremony location is not proof of the planned March 2027 screening venue, and no unverified film-submission deadline or eligibility is implied.
+
+Please read our [Security Policy](SECURITY.md) and [Contribution Guidelines](CONTRIBUTING.md). This is a public **information repository only**; full private website source code, participant records and copyrighted media are not included. Changes to this repository do not deploy the production website.
+
 ### بالعربية
 
 **بلس فيلم كرييشنز** مبادرة إبداعية في لبنان تُعنى بالسينما وحكايات المجتمع. تضم **مهرجان أفلام الجنوب اللبناني** ومشروع **بيت صانعي الأفلام الصغار**. تُنشر التفاصيل الرسمية بالعربية والإنجليزية والفرنسية على [plusfilmcreations.org](https://plusfilmcreations.org/).
