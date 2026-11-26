@@ -11,6 +11,20 @@ Plus Film Creations is a Lebanon-based creative initiative exploring cinema, com
 
 The [official website](https://plusfilmcreations.org/) provides Arabic, English and French information. Project dates, film submission periods, venues, festival eligibility and FilmFreeway links are official **only after they appear on the website**.
 
+### Quick access · Team and collaborators
+
+| Area | Link |
+|---|---|
+| **Team briefing · بوابة الفريق** (AR / EN / FR) | [Read the team plan and choose your role](https://plusfilmcreations.org/team/?lang=ar) |
+| **Public task tracker** | [Current priorities and decisions](https://github.com/DataVistaStudio/plus-film-creations/issues) |
+| **Active SLD Film Festival hub** | [Updates, press and official links](https://plusfilmcreations.org/sld/) |
+| **Permanent SLD project dossier** | [About the festival project](https://plusfilmcreations.org/?page=festival&lang=en) |
+| **Plus Film Creations** | [Main website](https://plusfilmcreations.org/) |
+
+**New team member?** Open the team briefing, choose your role (coordination, administration, design, film programming, communications or web), read a task and send an update to the official coordination email. A GitHub account is **not** required to read the briefing. Public GitHub Issues are for high-level, non-sensitive work only. Private participants, contracts, films, passwords and staff details must not be shared here. The team briefing is read-only; progress is updated through an authorized review process.
+
+**Technical references:** [Project repository](https://github.com/DataVistaStudio/plus-film-creations) · [DataVista Studio](https://github.com/DataVistaStudio) · [Founder GitHub](https://github.com/arslanhq).
+
 ### Repository scope
 
 This is a public reference repository. **Production source code has not been published here.** No private accounts, server configuration, participant records, film submissions, copyrighted third-party media or secret credentials belong in this repository. Any future source import requires the project's documented rights and security review.
